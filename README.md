@@ -29,13 +29,13 @@ The Russia-Ukraine conflict (February 2022 onwards) fundamentally disrupted glob
 [![Trade Overview - Page 1](ScreenShots/DashBoard%201.png)](ScreenShots/DashBoard%201.png)
 *Page 1 — Trade Overview: Import trends, commodity share, trade balance, and war phase comparison*
 
-[![Economic Impact - Page 2](ScreenShots/DashBoard_2.png)](ScreenShots/DashBoard_2.png)
+[![Economic Impact - Page 2](ScreenShots/DashBoard%202.png)](ScreenShots/DashBoard%202.png)
 *Page 2 — Economic Impact: Oil/wheat prices, INR/USD rate, sanctions score, profitability*
 
-[![Products & Exports - Page 3](ScreenShots/DashBoard_3.png)](ScreenShots/DashBoard_3.png)
+[![Products & Exports - Page 3](ScreenShots/DashBoard%203.png)](ScreenShots/DashBoard%203.png)
 *Page 3 — Products & Exports: India's export basket, Russia's import products, profit by commodity*
 
-[![Data Records - Page 4](ScreenShots/DashBoard_4.png)](ScreenShots/DashBoard_4.png)
+[![Data Records - Page 4](ScreenShots/DashBoard%204.png)](ScreenShots/DashBoard%204.png)
 *Page 4 — Data Records: Full filterable table with conditional formatting*
 
 ---
@@ -168,7 +168,8 @@ Russia-Ukraine-India-Trade-Analysis/
 ---
 
 ## 📐 DAX Measures
-  see the .pbix file
+  -
+    see the .pbix file
 ---
 
 
