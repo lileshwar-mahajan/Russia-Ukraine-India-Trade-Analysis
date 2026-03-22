@@ -26,7 +26,7 @@ The Russia-Ukraine conflict (February 2022 onwards) fundamentally disrupted glob
 
 ## 📈 Dashboard Preview
 
-[![Trade Overview - Page 1](ScreenShots/DashBoard_1.png)](ScreenShots/DashBoard_1.png)
+[![Trade Overview - Page 1](ScreenShots/DashBoard%201.png)](ScreenShots/DashBoard%201.png)
 *Page 1 — Trade Overview: Import trends, commodity share, trade balance, and war phase comparison*
 
 [![Economic Impact - Page 2](ScreenShots/DashBoard_2.png)](ScreenShots/DashBoard_2.png)
